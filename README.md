@@ -1,4 +1,4 @@
-![calculator]()
+![calculator](https://github.com/vishwajeet-hash/Calculator/blob/main/images/Capture.PNG)
 # Calculator Tool
 
 A basic calculator tool build using javascript,html and css.
@@ -11,11 +11,19 @@ A basic tool created by javascript and dom concept showcasing the user interacti
 
 * Does all simple calculator calculations.
 * Different operations can be run in a continuity and the final answer would be displayed.
-* Delete button (AC) is also present.
+* Clear button (AC) is also present.
 
 # Getting Started:
 
 * Clone the repository on your system.
-* Run the html code live using vscode or any other code editors.
+* Run the html code using vscode 'go live' option or any other code editors similar to it.
+
+## AUTHOR :
+
+#### NAME - Vishwajeet Kumar Singh <br>
+#### Github profile- [Click here](https://github.com/vishwajeet-hash)
+#### Linkedin profile- [Click here](https://www.linkedin.com/in/vishwajeet-kumar-singh-b2a7aa1a5/)
+
+***
 
 
